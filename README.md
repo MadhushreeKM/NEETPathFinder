@@ -63,16 +63,23 @@ spring.mail.password=your_email_password
 CREATE DATABASE neetdb;
 
 Run backend:
+
 cd Backend
+
 ./mvnw spring-boot:run
 
 Configure Frontend
+
 cd Frontend
+
 npm install
+
 npm start
+
 Visit: http://localhost:3000
 
 🎓 How to Use
+
 Register and log in securely
 Enter your NEET rank or percentile
 Explore predicted medical colleges
@@ -81,4 +88,5 @@ Receive timely email notifications
 
 
 👥 Contributors
-Madhushree K M - Mail ID| madhushreekm023@gmail.com
+Madhushree K M 
+Mail ID| madhushreekm023@gmail.com
